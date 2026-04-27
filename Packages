@@ -1,11 +1,13 @@
-Package: net.kenhtaonew.highgraphics
-Name: HighGraphics Pro
-Version: 2.0.1
+Package: net.kenhtaonew.performanceboost
+Name: Boost Hieu Nang Sau (Pro)
+Version: 3.5.0
 Architecture: iphoneos-arm
-Description: Mo khoa do hoa cho iOS 14-17.
+Description: Toi uu hoa he thong sau, giai phong RAM, tang toc CPU/GPU va on dinh FPS khi choi game (Free Fire, Roblox, Minecraft). Ho tro iOS 14-17.
 Maintainer: Kenh Tao New
-Author: PoomSmart
+Author: Kenh Tao New
 Section: Tweaks
+Icon: https://duchaivcyv-design.github.io/kenhtaonew.net/icon.png
+Depiction: https://duchaivcyv-design.github.io/kenhtaonew.net/index.html
 Filename: HighGraphics.deb
 Size: 102400
 MD5sum: 1234567890abcdef1234567890abcdef
